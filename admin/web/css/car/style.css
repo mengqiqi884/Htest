@@ -1,0 +1,73 @@
+/*.ll_create_butt{ margin:10px 0;text-align: center}*/
+/*#yii-debug-toolbar{display: none;}*/
+/*#page-wrapper .footer{display: none!important;}*/
+
+/*首页*/
+body,html{ height:100%;/* font-family: "黑体","微软雅黑" ;*/margin:0;padding:0;}
+dl,dt,dd,ul,li,a,p,span,input,ol{ text-decoration:none; list-style:none;margin:0;padding:0;}
+.div-wrap{padding: 2%;padding-bottom:8%;padding-top: 0}
+.car-box{width:45%;margin:4% 2% -2% 3% ;float:left;height:300px;}
+.car-box img{margin-top:2%;margin-right:2%;width:20%;background-size:100% 100%;}
+.car-box .box-left p{ font-size:40px; color: #fff; margin:10px;/*border-bottom:2px solid #fff;padding-bottom:8px;*/}
+.car-box .box-left{width:75%;}
+.car-box .box-left ul{width:90%;margin-top:70px;margin-left:30px;}
+.car-box .box-left ul li{ float:left; width:120px;}
+.car-box .box-left ul li span{font-size:18px; color: #fff;margin-left:10px;line-height:30px;}
+.car-box .box-left ul li span i{margin-right:3px }
+
+.car-box .box-left ul li a{ font-size:18px; color: #fff;display:block; margin-left:10px;line-height:32px;width:100%; }
+
+.green{background-color:rgb(26,179,149);}
+.red{background-color:rgb(241,42,74);}
+.blue{background-color:rgb(45,147,215);}
+.yellow{background-color:rgb(239,191,44);}
+.pink{background-color:rgb(234,43,124);}
+.hotyellow{background-color:rgb(196,139,57);}
+.fl{float:left;}
+.fr{float:right;}
+.clearfix:after
+{
+    content:".";
+    display:block;
+    height:0;
+    clear:both;
+    visibility:hidden;
+}
+.clearfix
+{
+    display:inline-block;
+}
+
+/* Hide from IE Mac */
+.clearfix {display:block;}
+/* End hide from IE Mac */
+/* end of clearfix */
+
+.clearfix:after {content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;}
+.clearfix {display: inline-block;}
+/* Hides from IE-mac \*/
+* html .clearfix { height: 1%;}
+.clearfix {display: block;}
+/* End hide from IE-mac */
+/*隐藏*/
+.disnone{display: none;}
+
+/*产品详情页*/
+.ccar-form{width:90%;margin:0 auto;margin-top: 50px;}
+.ccar-form table{width:100%;font-family: verdana,arial,sans-serif;font-size:14px;color:#333333;border-width: 1px;border-color: #ccc;border-collapse: collapse;margin-top: 5px;}
+.ccar-form table th{border-width: 1px;padding: 8px;border-style: solid;border-color: #ccc;}
+.ccar-form table td{border-width: 1px;padding: 8px;border-style: solid;border-color: #ccc;}
+.ccar-form div.bttn_div{margin: 10px auto;text-align:center}
+
+/*日期选择器的css*/
+input.layui-input{height: 34px;line-height:1.42857;border: 1px solid #eee;padding: 6px 12px;font-size:14px;}
+.laydate_body .laydate_y {margin-right: 5px;  }
+.laydate_body .laydate_choose{width: 18px}
+.field-LAY_demorange_s label,.field-LAY_demorange_e label{padding-top:6px}
+.field-LAY_demorange_s div{margin-left:55px;margin-top:0px}
+.field-LAY_demorange_e div{margin-left: 20px;margin-top:0px}
+.field-adminsearch-l_input{margin-left:-4px;}

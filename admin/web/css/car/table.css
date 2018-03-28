@@ -1,0 +1,3 @@
+.table2{ min-width:500px; border:1px solid #cad9ea;color:#666;}
+.table2 th { background-repeat:repeat-x;height:30px; color: #0a6aa1; }
+.table2 td,.table2 th{ border:1px solid #cad9ea; padding:0 1em 0;text-align: center; }

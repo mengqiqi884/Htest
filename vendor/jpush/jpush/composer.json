@@ -1,0 +1,25 @@
+{
+    "name": "jpush/jpush",
+    "type": "library",
+    "description": "JPush API PHP Client",
+    "homepage": "http://docs.jpush.cn/display/dev/Push-API-v3",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "JPush",
+            "email": "support@jpush.cn",
+            "homepage": "https://www.jpush.cn/",
+            "role": "Developer"
+        }
+    ],
+    "autoload" : {
+        "psr-0":{"jpush":"src/"},
+        "files": [
+            "src/JPush/JPush.php"
+        ]
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}

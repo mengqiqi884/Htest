@@ -1,0 +1,24 @@
+{
+    "name": "zhuravljov/yii2-datetime-widgets",
+    "description": "Datetime widgets for Yii2.",
+    "keywords": ["yii", "extension", "widget", "datepicker", "datetimepicker", "daterangepicker"],
+    "homepage": "https://github.com/zhuravljov/yii2-datetime-widgets",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Roman Zhuravlev",
+            "email": "zhuravljov@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/moment": "2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "zhuravljov\\widgets\\": ""
+        }
+    }
+}

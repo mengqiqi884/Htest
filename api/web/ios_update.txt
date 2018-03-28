@@ -1,0 +1,1 @@
+﻿{"verName": "51喝水","lastVerCode": "1.2","apkUrl": "https://itunes.apple.com/us/app/51he-shui/id1079254082?l=zh&ls=1&mt=8","updateContent": "1、新增我来送水语音播报功能；\n2、版本升为V1.2。","force": "0"}

@@ -1,0 +1,7 @@
+﻿{
+    "verName": "汽车置换",
+    "lastVerCode": "11",
+    "apkUrl": "https://www.baidu.com",
+    "updateContent": "1、版本优化<br>2、版本升为V1.1。",
+    "force": "0"
+}

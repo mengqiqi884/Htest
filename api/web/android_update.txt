@@ -1,0 +1,1 @@
+﻿{"verName": "","lastVerCode": "","apkUrl": "","updateContent": "1、功能优化；\n2、版本升为V1。","force": "0"}

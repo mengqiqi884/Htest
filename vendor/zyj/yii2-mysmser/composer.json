@@ -1,0 +1,25 @@
+{
+    "name": "zyj/yii2-mysmser",
+    "description": "Yii2 SMS extension",
+    "keywords": ["yii2", "extension", "smser", "plugin"],
+    "homepage": "https://github.com/zhouyajun/yii2-smser",
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
+    "authors": [
+        {
+            "name": "zyj",
+            "email": "617242499@qq.com",
+            "homepage": "",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "minimum-stability":"dev",
+    "autoload": {
+        "psr-4": {
+            "zyj\\smser\\": ""
+        }
+    }
+}
